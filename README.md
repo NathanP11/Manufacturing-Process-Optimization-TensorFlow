@@ -1,17 +1,19 @@
 # Manufacturing-Process-Optimization-TensorFlow
 Create neural network using 3 years of lab and controller data to identify machine and process improvements
 
-System Description:
+### Heading 3 ### System Description:
 * A mixer processes media for use in production line. After use, the material comes back to be mixed again. 
 * 3 control parameters are in the data, Process disruptions and other variations have a large effect on the system but are not controlled
 *  
 
-Goal
+### Heading 3 ### Goal
 * identify ideal set points for control parameters
 * identify key measured values for high scrap rates - these will be plotted and analyzd real time
 * identify equipment issues and associated cost for CAPEX planning
 
+### Heading 3 ### Model Definition: 
 Output Data (y value) = scrap %
+
 Input data (X values) :
 
 |                  |Temp F|Set Point 1|Measrued 1*|Water Set Point|Water Added|Sys Bias  |Strength*|Moisture*|Addition 2|Calculated|Batch Weight|Mixer Amps|
