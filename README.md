@@ -2,7 +2,8 @@
 Create neural network using 3 years of lab data to identify machine and process improvements
 
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+|               | Temp F        | Set Point 1   | Measrued Parameter 1        | Temp F        | Temp F        | Temp F        | Temp F        | Temp F        | Temp F        |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| Range         | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| Mean          | Content Cell  | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| St deviation  | Content Cell  | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
