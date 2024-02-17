@@ -11,6 +11,8 @@ Goal
 * identify key measured values for high scrap rates - these will be plotted and analyzd real time
 * identify equipment issues and associated cost for CAPEX planning
 
+Output Data (y value) = scrap %
+Input data (X values) :
 
 |                  |Temp F|Set Point 1|Measrued 1*|Water Set Point|Water Added|Sys Bias  |Strength*|Moisture*|Addition 2|Calculated|Batch Weight|Mixer Amps|
 |----------------- |------|-----------|---------- |---------------|-----------|----------|-------- | ------- | -------- | -------  | ---------- | -------- |
