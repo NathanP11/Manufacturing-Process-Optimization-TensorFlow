@@ -24,3 +24,10 @@ Input data (X values) :
 |St deviation      |16.63 | 3.78      |5.27       |14.93          | 15.0      |9.1       | 30.8    | 30      | 62.05    | 57.4     | 230        | 18       |
 |Adjustable        |      | X         |           |X              |           |          |         |         | X        |          | X          |          |
 |Exclude in model  |      |           |           |               |           |          |         |         |          |          |            |          |
+
+
+### Best model from first Set
+![image](https://github.com/NathanP11/Manufacturing-Process-Optimization-TensorFlow/assets/156483912/b4ef30d1-4f82-49a5-8d37-6cc7e835580c)
+
+Trend is more layers help, higher lambda (0.6) is good. Next run models with 4-5 layers
+
