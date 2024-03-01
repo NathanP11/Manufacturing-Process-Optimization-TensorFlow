@@ -31,3 +31,7 @@ Input data (X values) :
 
 Trend is more layers help, higher lambda (0.6) is good. Next run models with 4-5 layers
 
+
+### Very little varience reduction from PCA. 
+![image](https://github.com/NathanP11/Manufacturing-Process-Optimization-TensorFlow/assets/156483912/788d7ed9-fdee-43fe-b7aa-991a6077a65c)
+
