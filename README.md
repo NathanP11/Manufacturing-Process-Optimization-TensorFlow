@@ -1,3 +1,5 @@
+# This is only a sample of the process approach applied. The full project cannot be shared due to its sensetive nature
+
 # Manufacturing-Process-Optimization-TensorFlow
 Create neural network using 3 years of lab and controller data to identify machine and process improvements
 
